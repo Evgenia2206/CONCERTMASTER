@@ -401,7 +401,7 @@ body {
 }
 
 .checkbox:checked + .custom-checkbox {
-    background-image: url('../images/check-mark.svg');
+    background-image: url('../public/icons/check-mark.svg');
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
